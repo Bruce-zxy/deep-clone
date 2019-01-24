@@ -1,1 +1,1 @@
-A lightweight Base64 encoder/decoder.
+# This is a lightweight deep clone library

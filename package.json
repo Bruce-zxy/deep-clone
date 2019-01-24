@@ -1,5 +1,5 @@
 {
-  "name": "deep-clone",
+  "name": "@hadesz/deep-clone",
   "version": "1.0.0",
   "description": "This is a lightweight deep clone library",
   "main": "index.js",
